@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-<b>Chat key:</>
+<b>ChatGPT key:</>
 <br>
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 <br>
