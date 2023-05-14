@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>andehui志辉-官网</title>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RYLVFE7HST"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RYLVFE7HST');
+</script>
+
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="static/css/8226d6f87b4142079aa3fd9b311ad0f6.css" rel="stylesheet">
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="static/css/all.css">
+
+    <link rel="stylesheet" href="static/css/bootstrap.css" />
+    <link rel="stylesheet" href="static/css/main.css" />
+  </head>
+  <body>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-nav-wrapper">
+      <div class="mobile-menu-inner">
+        <ul class="mobile-menu">
+          <li class="scroll-to-section"><a href="#top">首页</a></li>
+          <li class="scroll-to-section"><a href="#what-i-do">产品服务</a></li>
+          <li class="scroll-to-section"><a href="#reviews">客户心声</a></li>
+          <li class="scroll-to-section"><a href="#experience-eductaion">关于我们</a></li>
+          <li class="scroll-to-section"><a href="#my-skills">招兵买马</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="mobile-menu-overlay"></div>
+
+    <!-- Header -->
+    <header class="site-header">
+      <div class="container expanded">
+        <div class="header-wrap">
+          <div class="header-logo">
+            <img src="static/picture/logo.png" style="max-width: 150px;" alt="andehui">
+          </div>
+          <div class="header-nav">
+              <ul class="main-menu">
+                <li class="scroll-to-section"><a href="#top">首页</a></li>
+                <li class="scroll-to-section"><a href="#what-i-do">产品服务</a></li>
+                <li class="scroll-to-section"><a href="#reviews">客户心声</a></li>
+                <li class="scroll-to-section"><a href="#experience-eductaion">关于我们</a></li>
+                <li class="scroll-to-section"><a href="#my-skills">招纳贤士</a></li>
+              </ul>    
+          </div>
+          <div class="header-widgets">
+            <ul class="right-menu">
+              <li class="menu-item menu-search">
+                <div class="main-bordered-button chat-wrap">
+                  <span>追随我们</span>
+                </div>
+              </li>
+              <li class="menu-item menu-mobile-nav">
+                <a href="#" class="menu-bar" id="menu-show-mobile-nav">
+                  <span class="hamburger"></span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- /Header -->
+
+    <div class="contact-popup">
+      <div class="chat-wrap">
+        <div class="contact-icon">
+          <div><span>联系我们</span></div>
+        </div>
+      </div>
+
+      <span class="overlay"></span>
+      <section class="contactme">
+        <div id="fancy-inputs">
+          <form action="#" method="POST">
+            <h4>微信公众号</h4>
+            <img src="static/images/gzh.jpg" style="margin: 0 auto;display: block;">
+            <input type="button" value="OKey" class="btn cta" onclick="closeWin()">
+          </form>
+        </div>
+      </section>
+    </div>
+
+    <div class="main-banner" id="top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 offset-lg-6">
+            <div class="banner-caption">
+              <h6>嘿，你好，我是志辉</h6>
+              <h4>好久不见！</h4>
+              <p>&nbsp; &nbsp; &nbsp; &nbsp; 我的Youtube频道专注国内外优质网赚项目的研究和最前沿的网赚思路分享，如果你是在找一些不需要花太多钱，也不需要花很多时间就可以做的被动收益网赚项目，记得在屏幕下面订阅我一下！我们的频道从2019年12月10日开始至今，受到许多国内外朋友的喜爱和支持，再次感谢您，我会再接再厉！</p>
+              <div class="buttons">
+                <a href="https://www.a169.org/" target="_blank" class="main-bordered-button chat-wrap">
+                  <span>Blog</span>
+                </a>
+                <div class="buttons">
+				<a href="https://www.youtube.com/channel/UC6LrrQ-4g7U6gnRdjm3HpkA" target="_blank" class="gradient-button chat-wrap">
+                  <span>Youtube</span>
+					
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="social-icons">
+            <ul>
+              <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-behance"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="first-services" id="what-i-do">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="section-heading">
+              <h2>我们提供什么<em>?</em></h2>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="service-item">
+              <div class="icon">
+                <img src="static/picture/service-icon-01.png" alt="">
+              </div>
+              <div class="content">
+                <h4>网络媒体广告</h4>
+                <p>安德辉拥有丰富的海量流量产品，覆盖用户各个使用场景，7×24 小时无缝触达您的目标客户覆盖移动/PC/TV三端。可在娱乐休闲语境下，高效触达年轻高质人群，让品牌“被喜欢，被看见”.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="service-item">
+              <div class="icon">
+                <img src="static/picture/service-icon-02.png" alt="">
+              </div>
+              <div class="content">
+                <h4>网站开发&nbsp;</h4>
+                <p>安德辉文化是一家由资深网页设计师与十年以上推广经验推广师合作的网站建设公司，没有销售套路，只有先进的建站技术、实在的价格、真诚负责的态度，为中小企业触网拓客保驾护航.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="service-item">
+              <div class="icon">
+                <img src="static/picture/service-icon-03.png" alt="">
+              </div>
+              <div class="content">
+                <h4>自媒体培训</h4>
+                <p>安德辉拥有多年自营多媒体经验.可提供自媒体培训,一对一教学,创业新模式,帮助学员打造可以国内外多平台赚钱的自媒体账号.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="service-item">
+              <div class="icon">
+                <img src="static/picture/service-icon-04.png" alt="">
+              </div>
+              <div class="content">
+                <h4>三维数据采集与制作无人机航拍</h4>
+                <p>高精度三维地图采集，支持人工修模，输出标准格式数据，满足各类应用场景，提供白模、低模、高精度多层次模型人工建模服务，满足各类三维渲染引擎加载调用.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="first-testimonials" id="reviews">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="section-heading">
+              <h2>客户心声<em>.</em></h2>
+            </div>
+          </div>
+          <div class="col-lg-12">
+            <div class="owl-carousel owl-theme">
+              <div class="item">
+                <div class="testimonial-item">
+                  <img src="static/picture/cxs.png" alt="">
+                  <div class="quote-icon">
+                    <i class="fa fa-quote-left"></i>
+                  </div>
+                  <p>“我们的平台是个手机赚钱平台，开始没什么流量也没人知道，通过安德辉的Youtube频道帮我们推广了三期，目前注册用户已经达到10w，谢谢志辉.”</p>
+                  <h4>雅琳</h4>
+                  <span class="job">Market Women</span>
+                  <ul class="reviews">
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-item">
+                  <img src="static/picture/lin.jpg" alt="">
+                  <div class="quote-icon">
+                    <i class="fa fa-quote-right"></i>
+                  </div>
+                  <p>“我們是台資企業，跟志輝先生合作是在Youtube上的推廣業配，價格合適性價比高，祝願志輝先生的頻道早日破100完訂閱喔.”</p>
+                  <h4>Amy</h4>
+                  <span class="job">Market Women</span>
+                  <ul class="reviews">
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-item">
+                  <img src="static/picture/xlg.jpg" alt="">
+                  <div class="quote-icon">
+                    <i class="fa fa-quote-left"></i>
+                  </div>
+                  <p>“本来是志辉油管的粉丝，刚好公司要做网站就找到了志辉，总之非常愉快的一次合作，志辉还是一如既往的和善好相处，网站虽然贵点但是值得，赞.”</p>
+                  <h4>林奚冈</h4>
+                  <span class="job">Tide Man</span>
+                  <ul class="reviews">
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-item">
+                  <img src="static/picture/testimonial-author-01.jpg" alt="">
+                  <div class="quote-icon">
+                    <i class="fa fa-quote-right"></i>
+                  </div>
+                  <p>“Andehui, consectetur aiso adipiscing elit, sed do eiusmod tempor didunt ut labore et dolore magna.I hope you continue to refuel!”</p>
+                  <h4>Alan Smithe</h4>
+                  <span class="job">Market Women</span>
+                  <ul class="reviews">
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-item">
+                  <img src="static/picture/DD.jpg" alt="">
+                  <div class="quote-icon">
+                    <i class="fa fa-quote-left"></i>
+                  </div>
+                  <p>“我是大学生，今年3月份开始和志辉老师学习做Youtuber，目前已经开通获利粉丝已经5000多了，按照老师教导真的可以少走很多弯路，谢谢老师！”</p>
+                  <h4>宁 丁</h4>
+                  <span class="job">College Student</span>
+                  <ul class="reviews">
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimonial-item">
+                  <img src="static/picture/andy.jpg" alt="">
+                  <div class="quote-icon">
+                    <i class="fa fa-quote-right"></i>
+                  </div>
+                  <p>“我是Bitop的andy，我們和andehui志輝的Youtube頻道是長期合作，也有志輝博客長期投放廣告，回報率還是不錯，會長期合作.”</p>
+                  <h4>Andy lue</h4>
+                  <span class="job">Market Man</span>
+                  <ul class="reviews">
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                    <li><i class="fa fa-star"></i></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="experience-history" id="experience-eductaion">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <div class="section-heading">
+              <h2>发展历程<em>.</em></h2>
+            </div>
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="experience-item">
+                  <div class="row">
+                    <div class="col-lg-5">
+                      <span class="date">March 2021 - Marketing Expertise</span>
+                      <span class="number">1</span>
+                      <ul class="info">
+                        <li>$2000/Monthly</li>
+                        <li class="right">20 Daily Clients</li>
+                        <li>Social Growth</li>
+                        <li class="right">Top Market Site</li>
+                        <li>Marketing Site</li>
+                        <li class="right">Social Growth</li>
+                      </ul>
+                    </div>
+                    <div class="col-lg-7">
+                      <h4>Marketing Expertise Developing</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliter sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-12">
+                <div class="experience-item">
+                  <div class="row">
+                    <div class="col-lg-5">
+                      <span class="date">March 2021 - Marketing Expertise</span>
+                      <span class="number">2</span>
+                      <ul class="info">
+                        <li>$2000/Monthly</li>
+                        <li class="right">20 Daily Clients</li>
+                        <li>Social Growth</li>
+                        <li class="right">Top Market Site</li>
+                        <li>Marketing Site</li>
+                        <li class="right">Social Growth</li>
+                      </ul>
+                    </div>
+                    <div class="col-lg-7">
+                      <h4>UI/UX Professional Designing</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliter sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-12">
+                <div class="experience-item last-item">
+                  <div class="row">
+                    <div class="col-lg-5">
+                      <span class="date">March 2021 - Marketing Expertise</span>
+                      <span class="number">3</span>
+                      <ul class="info">
+                        <li>$2000/Monthly</li>
+                        <li class="right">20 Daily Clients</li>
+                        <li>Social Growth</li>
+                        <li class="right">Top Market Site</li>
+                        <li>Marketing Site</li>
+                        <li class="right">Social Growth</li>
+                      </ul>
+                    </div>
+                    <div class="col-lg-7">
+                      <h4>Front & Back End Developing</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing eliter sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="section-heading education-heading">
+              <h2>媒体资源<em>.</em></h2>
+            </div>
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="education-item">
+                  <span class="date">September 2016 - December 2018</span>
+                  <h4>Digital School Of UK</h4>
+                  <span class="location">Sochmet - Dividia 20</span>
+                </div>
+              </div>
+              <div class="col-lg-12">
+                <div class="education-item">
+                  <span class="date">September 2018 - December 2020</span>
+                  <h4>Python Learning</h4>
+                  <span class="location">Sochmet - Dividia 20</span>
+                </div>
+              </div>
+              <div class="col-lg-12">
+                <div class="education-item">
+                  <span class="date">September 2020 - December 2021</span>
+                  <h4>React Native JS Courses</h4>
+                  <span class="location">Sochmet - Dividia 20</span>
+                </div>
+              </div>
+              <div class="col-lg-12">
+                <div class="animated-button chat-wrap">
+                  <span>Discover More</span>
+                  <div class="border"></div>
+                  <div class="border"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="my-skills" id="my-skills">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 offset-lg-3">
+            <div class="icon">
+              <img src="static/picture/skills-heading-icon.png" alt="">
+            </div>
+            <h2>如果你有这些技能，欢迎加入我们!</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <div class="skill-item">
+              <div class="full-circle">
+                <div class="gradient-bar">
+                  <div class="white-bg">
+                    <div class="icon">
+                      <img src="static/picture/skill-icon-01.png" alt="">
+                    </div>
+                    <span class="percentage">85%</span>
+                  </div>
+                </div>
+              </div>
+              <h4>视频编辑</h4>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="skill-item">
+              <div class="full-circle">
+                <div class="gradient-bar">
+                  <div class="white-bg">
+                    <div class="icon">
+                      <img src="static/picture/skill-icon-02.png" alt="">
+                    </div>
+                    <span class="percentage">70%</span>
+                  </div>
+                </div>
+              </div>
+              <h4>网站开发</h4>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="skill-item">
+              <div class="full-circle">
+                <div class="gradient-bar">
+                  <div class="white-bg">
+                    <div class="icon">
+                      <img src="static/picture/skill-icon-03.png" alt="">
+                    </div>
+                    <span class="percentage">75%</span>
+                  </div>
+                </div>
+              </div>
+              <h4>3D摄影</h4>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="skill-item">
+              <div class="full-circle">
+                <div class="gradient-bar">
+                  <div class="white-bg">
+                    <div class="icon">
+                      <img src="static/picture/skill-icon-04.png" alt="">
+                    </div>
+                    <span class="percentage">90%</span>
+                  </div>
+                </div>
+              </div>
+              <h4>网络广告资源</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="partners">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <img src="static/picture/partner-logo-01.png" alt="">
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <img src="static/picture/partner-logo-01.png" alt="">
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <img src="static/picture/partner-logo-01.png" alt="">
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <img src="static/picture/partner-logo-01.png" alt="">
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <img src="static/picture/partner-logo-01.png" alt="">
+          </div>
+          <div class="col-lg-4 col-sm-6">
+            <img src="static/picture/partner-logo-01.png" alt="">
+          </div>
+          <div class="col-lg-4 col-sm-12">
+            <img src="static/picture/partner-logo-01.png" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="inner-content">
+              <div class="row">
+                <div class="col-lg-10">
+                  <h4>如果我们的服务符合您的需求，我们期待与您的合作！</h4>
+                </div>
+                <div class="col-lg-2">
+                  <div class="animated-button chat-wrap">
+                    <span>Contact Me Now</span>
+                    <div class="border"></div>
+                    <div class="border"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <div class="about">
+              <div class="logo">
+                <img src="static/picture/white-logo.png" alt="/">
+              </div>
+              <p>品质是一切的基础，客户愿意花两倍的价格购买我们的产品，而且还很开心！</p>
+              <ul class="social-icons">
+                <li><a href="https://www.youtube.com/channel/UC6LrrQ-4g7U6gnRdjm3HpkA/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/andehui1982" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://weibo.com/2216565681" target="_blank"><i class="fab fa-behance"></i></a></li>
+                <li><a href="https://a169.org/gzh/" target="_blank"><i class="fab fa-google-plus"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="contact-info">
+              <h4>Find Me</h4>
+              <ul class="icon-list">
+                <li><i class="fa fa-map"></i> <span>中国, 南宁<br>江南同乐大道51号</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="contact-info">
+              <h4>Call Me</h4>
+              <ul class="icon-list">
+                <li><i class="fa fa-phone"></i> <span>+86 0771 330 6105<br>
+                +86 1857 709 3778</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="contact-info">
+              <h4>Write Me</h4>
+              <ul class="icon-list">
+                <li><i class="fa fa-envelope"></i> <span>ahui@andehui.cn<br>andehui115@gmail.com</span></li>
+              </ul>
+            </div>
+          </div>
+         
+            </form>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="sub-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <p>Copyright &copy; 2022.andehui.cn｜安德辉文化有限公司
+				<br>
+				<a target="_blank" href="https://beian.miit.gov.cn/">桂ICP备2021006900号</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Scripts -->
+    <script src="static/js/jquery-3.6.0.min.js"></script>
+    <script src="static/js/jquery.hoverintent.min.js"></script>
+    <script src="static/js/perfect-scrollbar.min.js"></script>
+    <script src="static/js/jquery.easing.min.js"></script>
+    <script src="static/js/wow.min.js"></script>
+    <script src="static/js/owl-carousel.js"></script>
+    <script src="static/js/main.js"></script>
+	<!-- Bidvertiser2061065 -->
+	  
+  </body>
+</html>
